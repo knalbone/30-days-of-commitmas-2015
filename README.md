@@ -20,7 +20,7 @@
 Tis the holiday season again, where we relax at home, eat loads of good food and spin driedels. This year, **let's keep learning** all the great stuff learned during the [vBrownBag DevOps sessions](http://professionalvmware.com/vbrownbag-devops-series/).
 
 
-## The Challenge
+## The Challenge KN
 
 Push yourself to use GitHub everyday throughout the holiday season so that by 2016 you're ready to share your next project. Here's how:
 
